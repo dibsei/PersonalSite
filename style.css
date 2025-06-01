@@ -80,3 +80,12 @@
 .intro3{
     font-family: "lobster";
 }
+
+.d-flex{
+    background: lightskyblue;
+}
+
+.col-md-4{
+    font-family: "lobster";
+    font-weight: 300;
+}
